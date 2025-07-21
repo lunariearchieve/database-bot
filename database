@@ -1,24 +1,20 @@
 {
-  "pengguna": [
-    {
-      "ip": "178.128.125.223",
-      "nomor_bot": "6289515727731",
-      "nama": "Valeria Bot"
-    },
-    {
-      "ip": "20.9.132.93",
-      "nomor_bot": "6283846237019",
-      "nama": "Valeria 2"
-    },
-    {
-      "ip": "165.22.96.81",
-      "nomor_bot": "6285142258348",
-      "nama": "gungzzx store"
-    },
-    {
-      "ip": "165.22.96.81",
-      "nomor_bot": "6285888914543",
-      "nama": "Bot Flora"
-    }
-  ]
+  "server": {
+    "165.22.96.81": [
+      {
+        "nomor_bot": "6285142258348",
+        "nama": "gungzzx store"
+      },
+      {
+        "nomor_bot": "6285888914543",
+        "nama": "Bot Flora"
+      }
+    ],
+    "178.128.125.223": [
+      {
+        "nomor_bot": "6289515727731",
+        "nama": "Valeria Bot"
+      }
+    ]
+  }
 }
