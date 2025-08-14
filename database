@@ -1,68 +1,25 @@
 {
   "server": {
     "165.22.96.81": [
-      {
-        "nomor_bot": "6285142258348",
-        "nama": "gungzzx store"
-      },
-      {
-        "nomor_bot": "6285888914543",
-        "nama": "Bot Flora"
-      },
-      {
-        "nomor_bot": "62882020996884",
-        "nama": "mouchiela"
-      },
-      {
-        "nomor_bot": "6283194746362",
-        "nama": "kajeola"
-      },
-      {
-        "nomor_bot": "6289526686853",
-        "nama": "rerea 2"
-      },
-      {
-        "nomor_bot": "6281325184122",
-        "nama": "ruvia"
-      },
-      {
-        "nomor_bot": "6281325194789",
-        "nama": "cinta"
-      },
-      {
-        "nomor_bot": "6283867391861",
-        "nama": "kajeola 2"
-      }
+      { "nomor_bot": "6285142258348", "nama": "gungzzx store" },
+      { "nomor_bot": "6285888914543", "nama": "Bot Flora" },
+      { "nomor_bot": "62882020996884", "nama": "mouchiela" },
+      { "nomor_bot": "6283194746362", "nama": "kajeola" },
+      { "nomor_bot": "6289526686853", "nama": "rerea 2" },
+      { "nomor_bot": "6281325184122", "nama": "ruvia" },
+      { "nomor_bot": "6281325194789", "nama": "cinta" },
+      { "nomor_bot": "6283867391861", "nama": "kajeola 2" }
     ],
     "178.128.125.223": [
-      {
-        "nomor_bot": "6289515727731",
-        "nama": "Valeria Bot"
-      },
-      {
-        "nomor_bot": "6289654427584",
-        "nama": "maca"
-      },
-      {
-        "nomor_bot": "6285837059681",
-        "nama": "rerea"
-      },
-      {
-        "nomor_bot": "6281226534233",
-        "nama": "cheysia"
-      },
-      {
-        "nomor_bot": "6283106046617",
-        "nama": "gebriella"
-      },
-      {
-        "nomor_bot": "6281917769128",
-        "nama": "Zyaa"
-      },
-      {
-        "nomor_bot": "6285650805375",
-        "nama": "Yuna"
-      }
+      { "nomor_bot": "6289515727731", "nama": "Valeria Bot" },
+      { "nomor_bot": "6285837059681", "nama": "rerea" },
+      { "nomor_bot": "6281226534233", "nama": "cheysia" },
+      { "nomor_bot": "6283106046617", "nama": "gebriella" },
+      { "nomor_bot": "6281917769128", "nama": "Zyaa" },
+      { "nomor_bot": "6285650805375", "nama": "Yuna" }
+    ],
+    "165.22.254.44": [
+      { "nomor_bot": "6289654427584", "nama": "maca" }
     ]
   }
 }
