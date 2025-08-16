@@ -1,7 +1,6 @@
 {
   "server": {
     "165.22.96.81": [
-      { "nomor_bot": "6283122016278", "nama": "gungzzx store" },
       { "nomor_bot": "6285888914543", "nama": "Bot Flora" },
       { "nomor_bot": "62882020996884", "nama": "mouchiela" },
       { "nomor_bot": "6283194746362", "nama": "kajeola" },
@@ -20,7 +19,8 @@
       { "nomor_bot": "6285650805375", "nama": "Yuna" }
     ],
     "165.22.254.44": [
-      { "nomor_bot": "6289654427584", "nama": "maca" }
+      { "nomor_bot": "6289654427584", "nama": "maca" },
+      { "nomor_bot": "6283122016278", "nama": "gungzzx store" }
     ]
   }
 }
